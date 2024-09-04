@@ -60,7 +60,9 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Steven-estudio&show_icons=true&theme=blueberry">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-estudio&layout=compact&theme=blueberry">
 </p>
-
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Steven-estudio&theme=radical" height="200em" width="822.5em" />
+</p>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Steven-estudio&style=for-the-badge&color=blue" alt=""/>
 </div>
