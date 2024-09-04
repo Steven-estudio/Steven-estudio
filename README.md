@@ -65,7 +65,4 @@
   <img src="https://komarev.com/ghpvc/?username=Steven-estudio&style=for-the-badge&color=blue" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="https://raw.githubusercontent.com/Steven-estudio/RepoSnake/main/assets/github-snake.svg" alt="snake"/>
-</p>
 
