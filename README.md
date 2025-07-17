@@ -42,11 +42,11 @@
 </p>
 <h2>Cv</h2>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1JZ6QtwdUS1c7S2_vWyxBkFe7rzQ7eD0l/view?usp=sharing" target="_blank">
-    <img src="https://pngimg.com/uploads/cv/cv_PNG12.png" style="width: 200px; height: 200px;" />
+  <a href="https://drive.google.com/file/d/1JZ6QtwdUS1c7S2_vWyxBkFe7rzQ7eD0l/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="https://pngimg.com/uploads/cv/cv_PNG12.png" width="200" height="200" alt="CV" />
+    <p>Ver CV</p>
   </a>
 </div>
-
 
 <!--<h2>Repositorios destacados</h2>
 <div align="center">
