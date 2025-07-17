@@ -42,7 +42,7 @@
 </p>
 <h2>Cv</h2>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1JZ6QtwdUS1c7S2_vWyxBkFe7rzQ7eD0l/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1JZ6QtwdUS1c7S2_vWyxBkFe7rzQ7eD0l/view?usp=sharing"target="_blank">
     <img src="https://pngimg.com/uploads/cv/cv_PNG12.png" style="width: 200px; height: 200px;" />
   </a>
 </div>
