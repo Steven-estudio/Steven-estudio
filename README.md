@@ -43,9 +43,10 @@
 <h2>Cv</h2>
 <div align="center">
   <a href="https://drive.google.com/file/d/1JZ6QtwdUS1c7S2_vWyxBkFe7rzQ7eD0l/view?usp=sharing">
-    <img src="https://pngimg.com/d/cv_PNG12.png" />
+    <img src="https://pngimg.com/uploads/cv/cv_PNG12.png" style="width: 200px; height: 200px;" />
   </a>
 </div>
+
 
 <!--<h2>Repositorios destacados</h2>
 <div align="center">
