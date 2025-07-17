@@ -40,8 +40,14 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,selenium,sqlite" />
   </a>
 </p>
+<h2>Cv</h2>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1JZ6QtwdUS1c7S2_vWyxBkFe7rzQ7eD0l/view?usp=sharing">
+    <img src="https://pngimg.com/d/cv_PNG12.png" />
+  </a>
+</div>
 
-<h2>Repositorios destacados</h2>
+<!--<h2>Repositorios destacados</h2>
 <div align="center">
   <a href="https://github.com/Steven-estudio/Repo1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-estudio&repo=Repo1&theme=dark" />
@@ -49,7 +55,7 @@
   <a href="https://github.com/Steven-estudio/Repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Steven-estudio&repo=Repo2&theme=dark" />
   </a>
-</div>
+</div>-->
 
 <h2>GitHub :octocat:</h2>
 <p align="center">
